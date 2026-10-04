@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hi, I'm Hưng <a href="[Link_Portfolio]">[@hungbui2703]</a></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=450&lines=A+final-year+college+boy;You+can+call+me+Bi;Embedded+System+and+IoT;..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=450&lines=A+final-year+college+boy;Embedded+System+and+IoT;You+can+call+me+Bi;..." alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,vscode,matlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,github,vscode,matlab&theme=dark" />
 </p>
 
 ---
